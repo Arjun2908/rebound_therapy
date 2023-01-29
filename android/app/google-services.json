@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "991486042221",
+    "project_id": "spartahack8-e459e",
+    "storage_bucket": "spartahack8-e459e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991486042221:android:549907860d6d7c49649f64",
+        "android_client_info": {
+          "package_name": "com.flutterflow.edriveapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991486042221-6ktko69j0qsbeirtt2cgjak695o3obbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDof0CEloas80pk36kk6QwzZWZ1QQsnYaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991486042221-6ktko69j0qsbeirtt2cgjak695o3obbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991486042221-t92egtejapundtcfqnt62i3hkb7isolj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.edriveapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
